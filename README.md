@@ -9,21 +9,26 @@
   <a href="https://bhargavgandhi.me/resume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-8ad17a?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
 </p>
 
----
+<div align="center">
 
-### 👋 About me
+<br>
 
-I'm an **AI Data Engineer** in Boston with an MS in Computer Software Engineering from **Northeastern University**. I build ETL/ELT pipelines and lakehouses on **Databricks, Spark and dbt**, and the ML models that run on top of them.
+<h3><code>bhargav@github ~ $ whoami</code></h3>
+<img src="./info-card.svg" width="490" alt="Role, status, experience, stack and impact" />
 
-- 🚇 Modeled **90M transit tap records** into a governed Databricks lakehouse at the **MBTA**
-- 🎓 Cut support escalations **22%** across 40K tickets with an ML classifier at **Northeastern**
-- 💰 Drove **$65K** in annual ad revenue through A/B testing at **Finesse**
-- 🤖 Currently building **LLM + RAG systems** with LangGraph, evaluated like real software
-- 💬 Ask me about **lakehouse design, data quality, dbt, or turning messy data into decisions**
+</div>
 
----
+<br>
 
-### 🛠️ Tech stack
+<h3><code>bhargav@github ~ $ cat about.md</code></h3>
+
+I build ETL/ELT pipelines and lakehouses on **Databricks, Spark and dbt**, and the ML models that run on top of them: from governed transit data at the **MBTA** to service-desk ML at **Northeastern**. Lately I've been building **LLM + RAG systems** with LangGraph, evaluated like real software.
+
+💬 Ask me about **lakehouse design, data quality, dbt, or turning messy data into decisions.**
+
+<br>
+
+<h3><code>bhargav@github ~ $ ls ~/stack</code></h3>
 
 <table>
   <tr>
@@ -91,9 +96,9 @@ I'm an **AI Data Engineer** in Boston with an MS in Computer Software Engineerin
   </tr>
 </table>
 
----
+<br>
 
-### 🚀 Featured projects
+<h3><code>bhargav@github ~ $ ls ~/projects</code></h3>
 
 <table>
   <tr>
@@ -118,17 +123,7 @@ I'm an **AI Data Engineer** in Boston with an MS in Computer Software Engineerin
   </tr>
 </table>
 
----
-
-### 💼 Experience
-
-| Role | Company | When |
-|---|---|---|
-| **AI Data Engineer** | Northeastern University · Boston | Jan 2026 – Aug 2026 |
-| **Data Analytics Engineer** | MBTA · Boston | Jun 2025 – Dec 2025 |
-| **Data Engineer** | Finesse · Mumbai | Jan 2023 – Jun 2024 |
-
----
+<br>
 
 <p align="center">
   <sub>Want the interactive version? Boot up my desktop at <a href="https://bhargavgandhi.me"><b>bhargavgandhi.me</b></a> and type <code>help</code> in the terminal.</sub>
